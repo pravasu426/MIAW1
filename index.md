@@ -8,7 +8,7 @@
 			embeddedservice_bootstrap.init(
 				'00D3K0000000oqM',
 				'DELL_CONNECT_MIAW_VF',
-				'https://dcsf--miawpoc1--c.sandbox.vf.force.com/apex/ESWDELLCONNECTMIAWVF1730786036962',
+				'dcsf--miawpoc1.sandbox.my.site.com/ESWDELLCONNECTMIAWVF1730786036962',
 				{
 					scrt2URL: 'https://dcsf--miawpoc1.sandbox.my.salesforce-scrt.com'
 				}
