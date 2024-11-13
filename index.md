@@ -1,8 +1,11 @@
 <HTML>
-<body>
+	<head>
+
 	<meta http-equiv="content-security-policy" content="default-src 'none'">
 
-
+</head>
+<body>
+	
 
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
