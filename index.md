@@ -1,4 +1,4 @@
-<HTML Content-Security-Policy: frame-ancestors 'self' https://sdcnwpc1dcsf01.aus.amer.dell.com ;>
+<HTML Content-Security-Policy: "frame-ancestors 'self' https://sdcnwpc1dcsf01.aus.amer.dell.com;">
 	
 <body>
 		
