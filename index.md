@@ -1,5 +1,12 @@
 <HTML>
-	
+	<head>
+    <meta charset="UTF-8">
+    
+    <!-- Content Security Policy in a meta tag -->
+    <meta http-equiv="Content-Security-Policy" content="frame-ancestors http://sdcnwpc1dcsf01.aus.amer.dell.com dcsf--miawpoc1--c.sandbox.vf.force.com *.dcsf--miawpoc1--c.sandbox.vf.force.com http://*.sdcnwpc1dcsf01.aus.amer.dell.com">
+    
+    
+</head>
 <body>
 	
 
