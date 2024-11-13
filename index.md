@@ -1,3 +1,4 @@
+<body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -5,8 +6,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00D3K0000000oqM',
-				'TEST_MIAW',
-				'https://dcsf--miawpoc1.sandbox.my.site.com/ESWTESTMIAW1731515046163',
+				'TEST_WEB_CHAT',
+				'https://dcsf--miawpoc1.sandbox.my.site.com/ESWTESTWEBCHAT1731519949066',
 				{
 					scrt2URL: 'https://dcsf--miawpoc1.sandbox.my.salesforce-scrt.com'
 				}
@@ -16,4 +17,5 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://dcsf--miawpoc1.sandbox.my.site.com/ESWTESTMIAW1731515046163/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://dcsf--miawpoc1.sandbox.my.site.com/ESWTESTWEBCHAT1731519949066/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+</body>
