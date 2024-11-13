@@ -1,12 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Content-Security-Policy with frame-ancestors -->
+   
     <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self' https://dcsf--miawpoc1.sandbox.my.site.com;">
-    <title>Your Page</title>
-</head>	
 <body>
 		
 
