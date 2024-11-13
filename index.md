@@ -1,5 +1,8 @@
 <HTML>
 <body>
+	<iframe src="https://dcsf--miawpoc1--c.sandbox.vf.force.com" allow="https://dcsf--miawpoc1.sandbox.my.site.com"></iframe>
+
+
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
