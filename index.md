@@ -1,5 +1,7 @@
 <HTML>
 <body>
+	
+  <iframe src='frame-ancestors http://sdcnwpc1dcsf01.aus.amer.dell.com dcsf--miawpoc1--c.sandbox.vf.force.com *.dcsf--miawpoc1--c.sandbox.vf.force.com http://*.sdcnwpc1dcsf01.aus.amer.dell.com'></iframe>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
