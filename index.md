@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +8,6 @@
 
     <title>Embedded Messaging Example</title>
 </head>
-<body>
 
 <script type='text/javascript'>
     function initEmbeddedMessaging() {
@@ -32,5 +30,4 @@
 
 <script type='text/javascript' src='https://dcsf--miawpoc1.sandbox.my.site.com/ESWDELLCONNECTMIAWVF1730786036962/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
-</body>
-</html>
+
