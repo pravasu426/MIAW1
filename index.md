@@ -1,7 +1,9 @@
+<head>
+    <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self' https://dcsf--miawpoc1.sandbox.my.site.com;">
+</head>
 <html lang="en">
    
-    <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self' https://dcsf--miawpoc1.sandbox.my.site.com;">
-<body>
+    <body>
 		
 
 ﻿
