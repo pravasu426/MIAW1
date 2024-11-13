@@ -1,6 +1,6 @@
 <HTML>
 <body>
-	<iframe src="https://dcsf--miawpoc1--c.sandbox.vf.force.com" allow="https://dcsf--miawpoc1.sandbox.my.site.com"></iframe>
+	<iframe src="frame-ancestors 'self' http://sdcnwpc1dcsf01.aus.amer.dell.com dcsf--miawpoc1--c.sandbox.vf.force.com *.dcsf--miawpoc1--c.sandbox.vf.force.com http://*.sdcnwpc1dcsf01.aus.amer.dell.com"></iframe>
 
 
 <script type='text/javascript'>
