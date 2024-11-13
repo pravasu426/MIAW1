@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-
 <HTML>
-	<head>
-    <meta charset="UTF-8">
-    
-    <!-- Content Security Policy in a meta tag -->
-    <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self' https://dcsf--miawpoc1--c.sandbox.vf.force.com ;">
-    
-    
-</head>
+	
 <body>
 	
 
