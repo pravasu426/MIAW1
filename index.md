@@ -1,4 +1,4 @@
-<HTML>
+<HTML contentSecurityPolicy="frame-ancestors 'self'">
 <body>
 	
 <script type='text/javascript'>
