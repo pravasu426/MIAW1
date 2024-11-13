@@ -1,6 +1,7 @@
 <HTML>
 <body>
-	<iframe src="frame-ancestors 'self' http://sdcnwpc1dcsf01.aus.amer.dell.com dcsf--miawpoc1--c.sandbox.vf.force.com *.dcsf--miawpoc1--c.sandbox.vf.force.com http://*.sdcnwpc1dcsf01.aus.amer.dell.com"></iframe>
+	<meta http-equiv="content-security-policy" content="default-src 'none'">
+
 
 
 <script type='text/javascript'>
