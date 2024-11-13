@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <HTML>
 	<head>
     <meta charset="UTF-8">
