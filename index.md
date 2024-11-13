@@ -1,9 +1,5 @@
 <HTML>
-	<head>
-
-	<meta http-equiv="content-security-policy" content="default-src 'none'">
-
-</head>
+	
 <body>
 	
 
